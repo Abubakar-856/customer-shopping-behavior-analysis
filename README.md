@@ -1,4 +1,4 @@
-# 🛒 Customer Shopping Behavior Analysis
+# 🛒 Customer Shopping Behavior Analysis 
 
 *A Data Analytics Project Using Python, SQL (BigQuery), and Tableau*
 
